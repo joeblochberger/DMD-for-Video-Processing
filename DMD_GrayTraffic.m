@@ -9,7 +9,7 @@
 %
 % Kindly cite as
 %       Blochberger, J. 2021. Dynamic Mode Decomposition for Video 
-%       Processing. https://github.com/joeblochberger/DMD/DMD_GrayTraffic.m, GitHub. Retrieved Month Day, Year.
+%       Processing. https://github.com/joeblochberger/DMD-for-Video-Processing/DMD_GrayTraffic.m, GitHub. Retrieved Month Day, Year.
 %
 % Usage:
 % This script demonstrates the use of dynamic mode decomposition *DMD) to
